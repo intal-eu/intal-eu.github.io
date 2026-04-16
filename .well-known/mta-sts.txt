@@ -1,5 +1,5 @@
 version: STSv1
 mode: testing
-mx: d327503.a.ess.de.barracudanetworks.com
-mx: d327503.b.ess.de.barracudanetworks.com
+mx: d327459.a.ess.de.barracudanetworks.com
+mx: d327459.b.ess.de.barracudanetworks.com
 max_age: 604800
